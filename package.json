@@ -1,0 +1,16 @@
+{
+  "author": "Paul Serby <paul.serby@clock.co.uk> (http://clock.co.uk)",
+  "name": "bowler-proxy",
+  "description": "The proxy server for bowler",
+  "version": "0.0.1",
+  "repository": {
+    "url": "http://github.com/serby/bowler-proxy"
+  },
+  "main": "proxy.js",
+  "dependencies": {
+    "http-proxy": "*"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
